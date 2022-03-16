@@ -2,9 +2,9 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.owner = [['6281227144597', 'ozan', true]] // Put your number here
+global.owner = [['628992669816', 'San-San', true]] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = [['628992669816']] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -25,9 +25,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Antum punya>>>...'
+global.packname = 'Sanzzz-bot'
 global.author = ''
-global.wm = 'ZaBot-MD'
+global.wm = 'Sanzzz-bot'
 
 global.multiplier = 69 // The higher, The harder levelup
 
