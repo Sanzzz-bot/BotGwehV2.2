@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 
 global.owner = [['628992669816', 'San-San', true]] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [['628992669816']] // Premium user has unlimited limit
+global.prems = [['628992669816', '6281365681189']] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
